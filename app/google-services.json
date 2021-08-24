@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587809091105",
+    "project_id": "social-media-app-798df",
+    "storage_bucket": "social-media-app-798df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587809091105:android:2e14c6687e06e225f1fd60",
+        "android_client_info": {
+          "package_name": "com.souparna.socialmediaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587809091105-f6phgctn5bklmlrte86udfrlp8dng54s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsgWJdu-QTyKrCgGTUeAPfqoWY9jvyjkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587809091105-f6phgctn5bklmlrte86udfrlp8dng54s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
